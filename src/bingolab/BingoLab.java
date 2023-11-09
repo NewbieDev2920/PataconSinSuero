@@ -7,7 +7,7 @@ package bingolab;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
+/**asñdjasklsdjkasdnskldsldjasjldasblkbdsbd
  *
  * @author cande
  */
@@ -121,7 +121,7 @@ public class BingoLab {
                         i = 8;
                     }
                     else if( i == 7){
-                        System.out.println("PERDISTE...\n;(");
+                        System.out.println("PERDISTE...\n;(\nExcediste los 7 intentos.");
                     }
                 }
 
